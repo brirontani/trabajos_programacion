@@ -1,9 +1,15 @@
-      header {
+   body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e6cfa5;
+        }
+   header {
            background-color: #b1461c;
-            color: #f8edf5;
+            color: #e6cfa5;
             padding: 40px 20px;
             text-align: center;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        
         }
 
         header h1 {
@@ -14,13 +20,11 @@
         }
        .btn{
          display: inline-block;
-            text-decoration: none;
-            background-color: #e09e7f;
+            background-color:  #b1461c;
             color: #fafafa;
             border: 2px solid #cf6666;
             padding: 12px 24px;
             font-size: 1rem;
-            font-weight: bold;
             border-radius: 25px;
-            transition: all 0.3s ease;
+    
        }
