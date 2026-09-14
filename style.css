@@ -1,4 +1,4 @@
-   header {
+      header {
            background-color: #b1461c;
             color: #f8edf5;
             padding: 40px 20px;
@@ -15,9 +15,9 @@
        .btn{
          display: inline-block;
             text-decoration: none;
-            background-color: #ffffff;
-            color: #ca75c7;
-            border: 2px solid #db85d4;
+            background-color: #e09e7f;
+            color: #fafafa;
+            border: 2px solid #cf6666;
             padding: 12px 24px;
             font-size: 1rem;
             font-weight: bold;
